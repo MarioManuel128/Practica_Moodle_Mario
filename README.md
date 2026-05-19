@@ -1,8 +1,8 @@
 # Practica_Moodle_Mario
 
-Administració del perfil d'usuari
+# Administració del perfil d'usuari
 
-![Logo de Markdown](/Captura1.png)
+[Logo de Markdown](/Captura1.png)
 
 ![Logo de Markdown](/Captura2.png)
 
