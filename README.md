@@ -1,4 +1,7 @@
 # Practica_Moodle_Mario
+
+Administració del perfil d'usuari
+
 ![Logo de Markdown](/Captura1.png)
 
 ![Logo de Markdown](/Captura2.png)
@@ -17,6 +20,8 @@
 
 ![Logo de Markdown](/Captura9.png)
 
+![Logo de Markdown](/Captura14.png)
+
 ![Logo de Markdown](/Captura10.png)
 
 ![Logo de Markdown](/Captura11.png)
@@ -25,4 +30,3 @@
 
 ![Logo de Markdown](/Captura13.png)
 
-![Logo de Markdown](/Captura14.png)
